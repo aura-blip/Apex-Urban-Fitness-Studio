@@ -85,7 +85,7 @@ The page also contains a JavaScript membership calculator.
 
 `trainers.html`
 
-Displays fictional trainer profiles and a studio gallery section.
+Displays trainer profiles and a studio gallery section.
 
 ### Contact & Booking
 
@@ -93,7 +93,7 @@ Displays fictional trainer profiles and a studio gallery section.
 
 Contains:
 
-- Two fictional studio locations
+- fictional studio locations
 - Contact information
 - Opening hours
 - Free trial booking form
